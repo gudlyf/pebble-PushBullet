@@ -1,0 +1,18 @@
+{
+  "uuid": "17a16d52-7d2c-4f58-a129-070db89a21e1",
+  "shortName": "pebble-PushBullet",
+  "longName": "pebble-PushBullet",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
